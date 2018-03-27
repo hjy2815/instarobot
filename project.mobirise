@@ -45,7 +45,7 @@
         "main": true,
         "title": "Instarobot",
         "meta_descr": "",
-        "header_custom": "<head>\n    <title>인스타로봇</title>\n    <meta property=\"og:url\" content=\"http://instarobot.co.kr/\">\n    <meta property=\"og:title\" content=\"인스타로봇\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/JshzzRd.jpg\">\n    <meta property=\"og:description\" content=\"Instagram real marketing\">\n    <meta name=\"description\" content=\"Instagram real marketing\">\n    <meta name=\"keywords\" content=\"Instagram real marketing\">\n</head>",
+        "header_custom": "<head>\n    <title>인스타로봇</title>\n    <meta property=\"og:url\" content=\"http://instarobot.co.kr/\">\n    <meta property=\"og:title\" content=\"인스타로봇\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/JshzzRd.jpg\">\n    <meta property=\"og:description\" content=\"Instagram real marketing\">\n    <meta name=\"description\" content=\"Instagram real marketing\">\n    <meta name=\"keywords\" content=\"Instagram real marketing\">\n<script src='https://cdn.useproof.com/proof.js?acc=eglRYqbZ9pQY6tXvdQHZuhbS1n23' async></script>\n</head>",
         "footer_custom": "",
         "html_before": ""
       },
